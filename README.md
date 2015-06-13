@@ -1,2 +1,2 @@
 # android-study
-Android Study
+Android Study Look @ [wiki](../../wiki)
